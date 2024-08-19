@@ -1,13 +1,13 @@
 {
-	"name": "github-dark-dimmed",
-	"displayName": "Git Hub Dark Dimmed",
-	"publisher": "Nilux",
+	"name": "best-themes-redefined",
+	"displayName": "Best Themes Redefined 🚀",
+	"publisher": "lakshits11",
 	"author": {
-		"name": "Nil7x",
-		"email": "nillinux031@gmail.com"
+		"name": "Lakshit Somani",
+		"email": "lakshits11@gmail.com"
 	},
 	"icon": "btr-squircle-logo.png",
-	"description": "custom from Lakshit Somani-Best Themes",
+	"description": "🎨🚀 A never seen collection of 92 hand crafted themes no where to be found on Internet 💻",
 	"version": "0.4.6",
 	"engines": {
 		"vscode": "^1.20.0"
